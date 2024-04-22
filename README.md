@@ -4,8 +4,11 @@ This is a simple language translation application built using Python's Tkinter l
 
 # Features
 -Translate text from one language to another.
+
 -Support for multiple languages.
+
 -Automatic language detection option.
+
 -Clean and intuitive user interface.
 # Requirements
 -Python 3.x installed on your system.
